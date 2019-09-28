@@ -1,2 +1,3 @@
 class Person
-  
+  @@talk = 
+end
